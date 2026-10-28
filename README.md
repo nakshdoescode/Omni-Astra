@@ -10,7 +10,7 @@
 
 ## Hhhh-how to install? :3
 
-1. On your phone, open the [latest release](https://github.com/realidkroo/mochy-music/releases/latest).
+1. On your phone open the latest release (https://github.com/nakshdoescode/Omni-Astra.git).
 2. Download the `.apk` that matches your phone. If you are not sure, pick **arm64**, that is almost every phone from the last 8 years. The **universal** one works everywhere but is bigger.
 3. Open the downloaded file. Android will ask you to allow installs from your browser or file manager, say yes (you can turn it off again after).
 4. Open Omni Astra. You are done, no account needed to start listening.
@@ -34,8 +34,8 @@ You only need this if you want to change the code. If you just want to use the a
 
 ### Steps
 ```bash
-git clone https://github.com/realidkroo/mochy-music.git
-cd mochy-music
+git clone https://github.com/nakshdoescode/Omni-Astra.git
+cd Omni-Astra
 ```
 
 1. Open the folder in Android Studio once and let it finish syncing. This also creates `local.properties` with your SDK path.
