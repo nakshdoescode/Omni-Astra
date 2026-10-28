@@ -137,15 +137,7 @@ These are the open source apis and server we get gets its lyrics, streams and da
 - **SimpMusic Lyrics** by [maxrave-dev](https://github.com/maxrave-dev) ([repos](https://github.com/maxrave-dev/SimpMusic)) 
 
 ---
-## Star History
 
-<a href="https://www.star-history.com/?repos=realidkroo%2Fmochy-music&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=realidkroo/mochy-music&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=realidkroo/mochy-music&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=realidkroo/mochy-music&type=date&legend=top-left" />
- </picture>
-</a>
 
 <div align="center">
   <sub>star the repo plssss!</sub>
