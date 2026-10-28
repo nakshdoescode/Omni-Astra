@@ -76,14 +76,6 @@ Never commit your keys. Libre.fm works without any key.
 - `Unresolved reference` or Hilt errors that make no sense: delete the `build/` folders and `.gradle/` and build again.
 - Stuck or weird Gradle: `./build.sh -k`, then try again.
 - Wrong Java: make sure Gradle uses JDK 21 (Android Studio → Settings → Build Tools → Gradle → Gradle JDK).
-- Still stuck? Open an [issue](https://github.com/realidkroo/mochy-music/issues) with the error text.
-
-Want to send a fix? Read [CONTRIBUTING](.github/CONTRIBUTING.md) first.
----
-## Wants to help? bug report? report it on issues!
-
-Or read contribute.md there
-
 ---
 ## Disclaimer
 
