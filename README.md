@@ -1,42 +1,3 @@
-# Omni Astra
-
-<img width="1799" height="927" alt="Frame 286" src="https://github.com/user-attachments/assets/e793be23-be42-4b16-aa0d-bd8656026ecb" />
-
-<div align="center">
-
-  <sub>Sleek modern cool music player for android, open source, packed with features and doesn’t collect ur data >_< oh and, still in beta!</sub>
-  <br/>
-<p align="center">
-  <a href="https://github.com/realidkroo/mochy-music/releases">
-    <img src="https://shieldcn.dev/github/downloads/realidkroo/mochy-music.svg?mode=dark&radius=999&font=geist&split=true&height=28&fontSize=13&labelColor=1e1e2e&labelTextColor=ffffff&color=313244&valueColor=ffffff&logoColor=fab387" alt="Downloads">
-  </a>
-  <a href="https://github.com/realidkroo/mochy-music/stargazers">
-    <img src="https://shieldcn.dev/github/stars/realidkroo/mochy-music.svg?mode=dark&radius=999&font=geist&split=true&height=28&fontSize=13&labelColor=1e1e2e&labelTextColor=ffffff&color=313244&valueColor=ffffff&logoColor=f9e2af" alt="Stars">
-  </a>
-  <a href="https://github.com/realidkroo/mochy-music/network/members">
-    <img src="https://shieldcn.dev/github/forks/realidkroo/mochy-music.svg?mode=dark&radius=999&font=geist&split=true&height=28&fontSize=13&labelColor=1e1e2e&labelTextColor=ffffff&color=313244&valueColor=ffffff&logoColor=89b4fa" alt="Forks">
-      <a href="https://github.com/realidkroo/mochy-music/releases">
-    <img src="https://shieldcn.dev/badge/Android-8.0%2B-313244.svg?mode=dark&radius=999&font=geist&split=true&height=28&fontSize=13&labelColor=1e1e2e&labelTextColor=ffffff&color=313244&valueColor=ffffff&logo=android&logoColor=94e2d5" alt="Android 8.0+">
-  </a>
-  </a>
-  <a href="https://github.com/realidkroo/mochy-music/commits">
-    <img src="https://shieldcn.dev/github/commits/realidkroo/mochy-music.svg?mode=dark&radius=999&font=geist&split=true&height=28&fontSize=13&labelColor=1e1e2e&labelTextColor=ffffff&color=313244&valueColor=ffffff&logoColor=a6e3a1" alt="Commits">
-  </a>
-  <a href="https://github.com/realidkroo/mochy-music/releases/latest">
-    <img src="https://shieldcn.dev/github/release/realidkroo/mochy-music.svg?mode=dark&radius=999&font=geist&split=true&height=28&fontSize=13&labelColor=1e1e2e&labelTextColor=ffffff&color=313244&valueColor=ffffff&logoColor=cba6f7" alt="Release">
-  </a>
-  <a href="https://github.com/realidkroo/mochy-music/issues">
-    <img src="https://shieldcn.dev/github/issues/realidkroo/mochy-music.svg?mode=dark&radius=999&font=geist&split=true&height=28&fontSize=13&labelColor=1e1e2e&labelTextColor=ffffff&color=313244&valueColor=ffffff&logoColor=f38ba8" alt="Issues">
-  </a>
-  <a href="https://github.com/realidkroo/mochy-music/blob/main/LICENSE">
-    <img src="https://shieldcn.dev/github/license/realidkroo/mochy-music.svg?mode=dark&radius=999&font=geist&split=true&height=28&fontSize=13&labelColor=1e1e2e&labelTextColor=ffffff&color=313244&valueColor=ffffff&logoColor=b4befe" alt="License">
-  </a>
-  <a href="https://github.com/realidkroo/mochy-music/blob/main/Roadmap.md">
-    <img src="https://shieldcn.dev/badge/Roadmap-View-313244.svg?mode=dark&radius=999&font=geist&split=true&height=28&fontSize=13&labelColor=1e1e2e&labelTextColor=ffffff&color=313244&valueColor=ffffff&logoColor=b4befe" alt="Roadmap">
-  </a>
-</p>
-</div>
-
 ## Developers
 
 - **Nakshatra Das — Frontend Developer:** user interface, visual design, and the overall app experience.
@@ -135,14 +96,6 @@ Omni Astra is an independent, unofficial project made for personal and education
 - You are responsible for how you use the app, including the terms of service of the accounts and services you connect and the copyright laws where you live.
 - Importing from other services (Spotify, etc.) uses your own account. Don't share your login data or tokens with anyone.
 - Importing music MAY need your own account with its password. WE'RE NEVER see your password.
-
----
-## Some Prview 
-
-<img width="1799" height="927" alt="Frame 289" src="https://github.com/user-attachments/assets/c4c122ed-b86c-44e4-a618-417f5287bc98" />
-<img width="1799" height="927" alt="Frame 287" src="https://github.com/user-attachments/assets/186be8ac-ff3e-4e2a-ab7e-ae80bc9da7e7" />
-<img width="1799" height="927" alt="Frame 290" src="https://github.com/user-attachments/assets/c394603c-7aa7-4d78-8688-38a6c6e42232" />
-<img width="1799" height="927" alt="Frame 288" src="https://github.com/user-attachments/assets/06f5c13a-b8f1-4ecf-85aa-b17d020db5c8" />
 
 ---
 
